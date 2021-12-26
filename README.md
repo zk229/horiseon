@@ -3,9 +3,9 @@ The purpose of this project was to refactor code for a website to repair broken 
 
 ## Overview of Changes
 Some of the changes made to this code:
--Incorrect IDs in the hyperlinks were repaired
--Redundant CSS selectors were consolidated under their parent element and the corresponding classes were removed from the HTML
--Alt text was added for images when necessary
+- Incorrect IDs in the hyperlinks were repaired
+- Redundant CSS selectors were consolidated under their parent element and the corresponding classes were removed from the HTML
+- Alt text was added for images when necessary
     -Blank alt text was used for elements that did not require alt text
 
 ## Screenshots
