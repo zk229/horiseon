@@ -10,4 +10,4 @@ Some of the changes made to this code:
 
 ## Screenshots
 Code was created to conform to the provided mockup:
-![Mockup of the Horiseon website](./assets/images/mockup.png "The Mockup")
+![Mockup of the Horiseon website](./docs/assets/images/mockup.png "The Mockup")
